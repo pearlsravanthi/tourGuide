@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Hyderabad Tour Guide</string>
+    <string name="museum_1">Salar Jung Museum </string>
+    <string name="museum_2">Birla Science Museum</string>
+    <string name="museum_3">Nizam Museum</string>
+    <string name="museum_4">Telangana State Archaeology Museum</string>
+    <string name="museum_1_address">Salar Jung Road, Darulshifa, Hyderabad, Telangana 500002</string>
+    <string name="museum_2_address">Ambedkar Colony, Khairatabad, Hyderabad, Telangana 500004</string>
+    <string name="museum_3_address">Purani Haveli, Pathar Gatti, Hyderabad, Telangana 500002</string>
+    <string name="museum_4_address">5-10-193, I Floor, H A C A Bhavan, P G Road, Near Control Room, Hyderabad, Telangana 500004</string>
+
+    <string name="park_1">Indira Park</string>
+    <string name="park_2">Krishna Kanth Park</string>
+    <string name="park_3">Lumbini Park</string>
+    <string name="park_4">KBR National Park</string>
+    <string name="park_5">NTR Gardens</string>
+    <string name="park_6">BK Guda Park</string>
+    <string name="park_7">Yogibear Mini Golf Park</string>
+    <string name="park_1_address">Domalguda, Lower Tank Bund, Kavadiguda, Hyderabad, Telangana 500029</string>
+    <string name="park_2_address">Street Number 4, Jawahar Nagar, Hyderabad, Telangana 500045</string>
+    <string name="park_3_address">Opposite Secretariat New Gate, Khairatabad, Hyderabad, Telangana 500004</string>
+    <string name="park_4_address"> Opp TDP Office, Road No 2, Banjara Hills, Hyderabad, Telangana 500034</string>
+    <string name="park_5_address">NTR Marg, Central Secretariat, Khairatabad, Hyderabad, Telangana 500004</string>
+    <string name="park_6_address">BK Guda Rd, BK Guda, Sanjeeva Reddy Nagar, Hyderabad, Telangana 500016</string>
+    <string name="park_7_address">Necklace Rd, Hyderabad, Telangana 500003  </string>
+
+
+    <string name="restaurant_1">Pulao Restaurant</string>
+    <string name="restaurant_2">Absolute Barbecue</string>
+    <string name="restaurant_3">Chutneys</string>
+    <string name="restaurant_4">Paradise takeaway</string>
+    <string name="restaurant_5">Cafe Bahar and Restaurant</string>
+    <string name="restaurant_6">Jewel of Nizam</string>
+    <string name="restaurant_7">Dialogue In The Dark</string>
+    <string name="restaurant_1_address">House No. 118, III Rd Floor, Muzzle Arcade, Beside Pai International,, Jeedimetla, Hyderabad, Telangana 500055</string>
+    <string name="restaurant_2_address">4th Floor, Above Bajaj Electronics, Plot No. 722, Road No: 36, Near Madhupur Police Station , Pammasani Complex, Jubilee Hill, Hyderabad, Telangana 500033</string>
+    <string name="restaurant_3_address">Shop No.1133, 8-2-293/8/A/13, Road Number 36, Jubilee Hills, Above More, Hyderabad, Telangana 500033</string>
+    <string name="restaurant_4_address">Masab Tank X Roads, Masab Tank, Hyderabad, Telangana 500004</string>
+    <string name="restaurant_5_address">Old MLA Quarters Road, Hyderguda, Hyderabad, Telangana 500029</string>
+    <string name="restaurant_6_address"> The Golkonda Hotel, Banjara Hills, Masab Tank, Hyderabad, Telangana 500028</string>
+    <string name="restaurant_7_address"> Inorbit Mall, 5th Floor, Inorbit Mall, Madhapur, Hyderabad, Telangana 500081</string>
+
+    <string name="bar_club_1">Club Republic  </string>
+    <string name="bar_club_2">Spoil</string>
+    <string name="bar_club_3">KISMET</string>
+    <string name="bar_club_4">Heart Cup Coffee</string>
+
+    <string name="bar_club_1_address"> 7th Floor, Shangrila Plaza, Road Number 2, Opposite KBR Park, Banjara Hills, Hyderabad, Telangana 500034</string>
+    <string name="bar_club_2_address">8-3-293/82/A/70,4th Floor, Anshu Colours Building, Road No. 1, Opp. Chiranjeevi Blood &amp; Eye Bank, Jubilee Hills, Hyderabad, Telangana 500033</string>
+    <string name="bar_club_3_address">22, RajBhavan Road, Somajiguda, Hyderabad, Telangana 500082</string>
+    <string name="bar_club_4_address">1-10-3/3, Begumpet Road, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016</string>
+
+</resources>
